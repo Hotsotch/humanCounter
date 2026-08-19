@@ -4,6 +4,8 @@ Real-time people counting from video using computer vision. The repo contains tw
 
 Originally based on [epcm18/PeopleCounting-ComputerVision](https://github.com/epcm18/PeopleCounting-ComputerVision), extended and reworked from there.
 
+<img width="1020" height="526" alt="peopleCounter_Example" src="https://github.com/user-attachments/assets/3f0738e0-ed2b-4428-ac0d-a6fc26e6b253" />
+
 ## Approaches
 
 ### 1. YOLOv8 ROI counter — `countingYolov8.py` (current)
