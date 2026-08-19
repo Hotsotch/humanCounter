@@ -28,7 +28,7 @@ humanCounter/
 
 - Python 3.10+
 - A webcam or video file to test against
-- Please add your own video to track
+- Please add your own video to track (labelled test2_walking.mp4 or test_singleperson.mp4)
 
 Install dependencies:
 
